@@ -120,7 +120,7 @@ python3 trab_seg.py
 ## 📚 Referências
 
 - [Frequência de Letras - Wikipedia](https://pt.wikipedia.org/wiki/Frequência_de_letras)
-- [Apresentação Slides Canvas] (https://www.canva.com/design/DAGycv9JdhY/1cOCJzrRn71Ep6JrL8Ft-Q/edit?utm_content=DAGycv9JdhY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [Apresentação Slides Canvas](https://www.canva.com/design/DAGycv9JdhY/1cOCJzrRn71Ep6JrL8Ft-Q/edit?utm_content=DAGycv9JdhY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ---
 
